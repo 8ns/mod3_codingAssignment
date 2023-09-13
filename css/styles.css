@@ -1,7 +1,5 @@
 .content {
-  height: 1000px;
   background-color: #ff66cc;
   overflow: scroll;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin: 25px;
 }
